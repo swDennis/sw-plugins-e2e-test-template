@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5d2aeb3f-db5d-429f-8ea0-1de923b658c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/app/Administration/test/e2e/cypress/plugins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/app/Administration/test/e2e/cypress/plugins/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/app/Administration/test/e2e/cypress/support/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/app/Administration/test/e2e/cypress/support/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/app/StoreFront/test/e2e/cypress/plugins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/app/StoreFront/test/e2e/cypress/plugins/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/app/StoreFront/test/e2e/cypress/support/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/app/StoreFront/test/e2e/cypress/support/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,8 @@
       <updated>1598864927529</updated>
       <workItem from="1598864928582" duration="1258000" />
       <workItem from="1598879036496" duration="815000" />
-      <workItem from="1598937815774" duration="516000" />
+      <workItem from="1598937815774" duration="832000" />
+      <workItem from="1599211336363" duration="102000" />
     </task>
     <servers />
   </component>
